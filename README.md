@@ -1,6 +1,9 @@
 #PROBLEM STATEMENT
 
+You can view the notebook from here https://nbviewer.jupyter.org/github/mohamadbadran/IRIS-PLANT-CLASSIFICATION-USING-K-NEAREST-NEIGHBORS/blob/master/K-Nearest%20Neighbor%20for%20IRIS%20plant%20Classification/K-Nearest%20Neighbor%20for%20IRIS%20plant%20Classification%20.ipynb
+
 The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. The attribute to be predicted is the class of iris plant. The classes are as follows:
+
 1. Iris Setosa
 
 2. Iris Versicolour
